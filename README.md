@@ -1,5 +1,6 @@
 # ICDAR 2019 Competition
-Official Code for the 3rd Place in DIBCO 2019 (Held in Conjunction with ICDAR 2019)
+Official Code for the 3rd Place in DIBCO 2019 (Held in Conjunction with ICDAR 2019) 
+[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8978205)
 
 ## Table of Contents
 - [Installation](#Installation)
