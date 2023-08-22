@@ -21,7 +21,7 @@ Official Code for the 3rd Place in DIBCO 2019 (Held in Conjunction with ICDAR 20
 ## Inference
 The pre-trained models are provided in folders ( LadderNet-master/src/checkpoint/ )
 1. Testing by method a
-# from LadderNet-master/src/
+From LadderNet-master/src/
 $ python binarize_a.py arg1 arg2
 
 arg1: direction of folder of input Images  ( default: “./input/” ) ( you should put input images in folder: ./input/  and $ python binarize_a.py)
