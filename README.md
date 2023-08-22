@@ -28,9 +28,9 @@ The pre-trained models are provided in folders ( src/checkpoint/ )
    
 $ python binarize_a.py arg1 arg2
 
-+ arg1: direction of folder of input Images  ( default: “./input/” ) ( you should put input images in folder: ./input/  and $ python binarize_a.py)
++ arg1: direction of input Images  ( default: “./input/” ) ( you should put input images in folder: ./input/  and $ python binarize_a.py)
 
-+ arg2: direction of folder of result ( default: “./result_a/” )
++ arg2: direction of result ( default: “./result_a/” )
 
 EX: 
 
@@ -42,9 +42,9 @@ python binarize_a.py --input ./inputa/ --result ./resulta/
 
 $ python binarize_b.py arg1 arg2
 
-+ arg1: direction of folder of input Images  ( default: “./input/” ) ( you should put input images in folder: ./input/  and $ python binarize_b.py)
++ arg1: direction of input Images  ( default: “./input/” ) ( you should put input images in folder: ./input/  and $ python binarize_b.py)
 
-+ arg2: direction of folder of result ( default: “./result_b/” )
++ arg2: direction of result ( default: “./result_b/” )
 
 EX: 
 
