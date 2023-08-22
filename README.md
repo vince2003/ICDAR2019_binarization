@@ -20,9 +20,9 @@ Official Code for the 3rd Place in DIBCO 2019 (Held in Conjunction with ICDAR 20
 - natsort 
 - Configparser
 ## Inference
-(From LadderNet-master/src/)
+(From src/)
 
-The pre-trained models are provided in folders ( LadderNet-master/src/checkpoint/ )
+The pre-trained models are provided in folders ( src/checkpoint/ )
 
 **1. Testing by method a**
    
@@ -57,7 +57,7 @@ python binarize_b.py --input ./inputb/ --result ./resultb/
 
 (choose layer=3, filter=16 for model 1, choose layer=4, filter =10 for model 2 in code)
 
-- Model1 and model2 will be stored LadderNet-master/src/checkpoint/
+- Model1 and model2 will be stored src/checkpoint/
 
 ## Data
 
@@ -65,7 +65,7 @@ The dataset is created from the DIBCO 2009, DIBCO 2011, DIBCO 2013, H-DIBCO 2010
 
 ## Pretrained weights
 
-In the folder: LadderNet-master/src/checkpoint/
+In the folder: src/checkpoint/
 
 ## Acknowledgments
 
